@@ -9,8 +9,10 @@ A collection of SQL practice scripts and exercises using the **Northwind** sampl
 ├── database/
 │   └── Northwind.db
 ├── scripts/
-│   └── revenue_by_product.sql
 │   └── best-selling_products.sql
+│   └── highest_total_spend_client.sql
+│   └── orders_per_employee.sql
+│   └── revenue_by_product.sql
 └── README.md
 ```
 
@@ -46,8 +48,10 @@ More exercises will be added as I continue learning and practicing.
 
 | Script | Description |
 |---------|-------------|
-| `revenue_by_product.sql` | Calculates the total units sold and revenue generated for each product using subqueries. |
 | `best-selling_products.sql` | Calculates the best-selling products compared to the average of total products sold using subqueries. |
+| `highest_total_spend_customer.sql` | Calculates the client with highest spend using subqueries and multiple tables. |
+| `orders_per_employee.sql` | Calculates the employees with more orders than an average employee using subqueries. |
+| `revenue_by_product.sql` | Calculates the total units sold and revenue generated for each product using subqueries. |
 
 
 ## License
