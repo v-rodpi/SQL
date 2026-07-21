@@ -1,5 +1,3 @@
--- Database: Northwind
---
 -- Purpose:
 -- Calculate the total number of units sold for each product and the
 -- revenue generated (Unit Price × Total Quantity Sold) using subqueries.
