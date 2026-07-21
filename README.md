@@ -7,7 +7,7 @@
 ## Setup
 
 1. Open `database/northwind.db` in DB Browser for SQLite.
-2. Open `scripts/revenue_by_product.sql`.
+2. Open `scripts/subqueries_practice.sql`.
 3. Execute the script.
 
 ## Objective
