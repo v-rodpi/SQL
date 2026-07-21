@@ -10,6 +10,7 @@ A collection of SQL practice scripts and exercises using the **Northwind** sampl
 │   └── Northwind.db
 ├── scripts/
 │   └── revenue_by_product.sql
+│   └── best-selling_products.sql
 └── README.md
 ```
 
@@ -46,6 +47,8 @@ More exercises will be added as I continue learning and practicing.
 | Script | Description |
 |---------|-------------|
 | `revenue_by_product.sql` | Calculates the total units sold and revenue generated for each product using subqueries. |
+| `best-selling_products.sql` | Calculates the best-selling products compared to the average of total products sold using subqueries. |
+
 
 ## License
 
